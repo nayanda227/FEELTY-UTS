@@ -35,7 +35,7 @@ class _HomePageState extends State<HomePage> {
                       children: [
                         const SizedBox(height: 50), // Jarak dari atas
                         const Text(
-                          'Hi, Luthfi Hakim',
+                          'Hi, Lana',
                           style: TextStyle(
                             color: Colors.white,
                             fontSize: 14,

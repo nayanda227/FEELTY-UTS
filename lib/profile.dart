@@ -47,14 +47,14 @@ class ProfilePage extends StatelessWidget {
                   CircleAvatar(
                     radius: 30,
                     backgroundImage: NetworkImage(
-                        'https://avatars.githubusercontent.com/u/86990795?v=4'), // Replace with actual image
+                        'https://avatars.githubusercontent.com/u/86990795?v=4'),
                   ),
                   SizedBox(width: 16),
                   Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
-                        'Luthfi Hakim',
+                        'Lana',
                         style: TextStyle(
                           fontSize: 20,
                           fontWeight: FontWeight.bold,
